@@ -2,8 +2,6 @@ real_destino = "1"
 dolar_destino = "2"
 euro_destino = "3"
 iene_destino = "4"
-#########
-
 valor_origem = float(input("--- Digite O Valor De Origem ---\n"))
 
 destino_escolhido = ""
