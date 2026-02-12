@@ -1,9 +1,3 @@
-###########
-real = "1"
-dolar = "2"
-euro = "3"
-iene = "4"
-#########
 real_destino = "1"
 dolar_destino = "2"
 euro_destino = "3"
